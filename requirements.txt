@@ -1,0 +1,6 @@
+pytesseract==0.3.10
+tqdm==4.62.2
+numpy==1.23.5
+opencv-python==4.7.0.68
+matplotlib==3.4.3
+nms==0.1.6
